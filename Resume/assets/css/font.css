@@ -1,0 +1,44 @@
+*{
+	font-family: nunitosans;
+}
+
+@font-face {
+  font-family: nunitosans;
+  src: url(fonts/nunitosans-black.ttf);
+}
+@font-face {
+  font-family: nunitosans;
+  src: url(fonts/nunitosans-blackitalic.ttf);
+}
+@font-face {
+  font-family: nunitosans;
+  src: url(fonts/nunitosans-bold.ttf);
+  font-weight: bold;
+}
+@font-face {
+  font-family: nunitosans;
+  src: url(fonts/nunitosans-bolditalic.ttf);
+  font-weight: bold;
+  font-style: italic;
+}
+@font-face {
+  font-family: nunitosans;
+  src: url(fonts/nunitosans-extrabold.ttf);
+  font-weight: bold;
+}
+@font-face {
+  font-family: nunitosans;
+  src: url(fonts/nunitosans-extrabolditalic.ttf);
+}
+@font-face {
+  font-family: nunitosans;
+  src: url(fonts/nunitosans-light.ttf);
+}
+@font-face {
+  font-family: nunitosans;
+  src: url(fonts/nunitosans-regular.ttf);
+}
+@font-face {
+  font-family: nunitosans;
+  src: url(fonts/nunitosans-semibold.ttf);
+}

@@ -1,0 +1,43 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.bg-body{
+  background-image:  linear-gradient(to right, #66BB6A, #43A047, #2E7D32);
+}
+.img{
+  margin: 3px;
+  /* padding-top: 50px; */
+  overflow: hidden;
+}
+.rounded{
+  border-radius: 10px;
+}
+.text-black{
+  color: black;
+}
+.fs-27{
+  font-size: 27px;
+}
+.fs-22{
+  font-size: 22px;
+}
+.fs-20{
+  font-size: 20px;
+}
+.content-area{
+  margin-top: 20px;
+  align-content: center;
+}
+.cap{
+  text-transform:capitalize;
+}
+.all-cap{
+  text-transform: uppercase;
+}
+.card-shadow{
+  box-shadow: 0 4px 16px 0 rgba(0,0,0,0.5);
+}
+.card-body{
+  background-color: #fff;
+}
